@@ -1,0 +1,10 @@
+Django==4.1.7
+django-tailwind==3.5.0
+django-ckeditor==6.7
+django_cleanup==7.0.0
+sqlparse==0.4.4
+psycopg2-binary==2.9.6
+django-image-cropping==1.7
+easy-thumbnails==2.8.5
+gunicorn==21
+django_htmx==1.16.0
